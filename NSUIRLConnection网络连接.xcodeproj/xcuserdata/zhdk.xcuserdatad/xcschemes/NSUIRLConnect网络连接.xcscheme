@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F09BEFC01F5663D200383138"
-               BuildableName = "NSUIRLConnect&#x7f51;&#x7edc;&#x8fde;&#x63a5;.app"
-               BlueprintName = "NSUIRLConnect&#x7f51;&#x7edc;&#x8fde;&#x63a5;"
-               ReferencedContainer = "container:NSUIRLConnect&#x7f51;&#x7edc;&#x8fde;&#x63a5;.xcodeproj">
+               BuildableName = "NSUIRLConnection&#x7f51;&#x7edc;&#x8fde;&#x63a5;.app"
+               BlueprintName = "NSUIRLConnection&#x7f51;&#x7edc;&#x8fde;&#x63a5;"
+               ReferencedContainer = "container:NSUIRLConnection&#x7f51;&#x7edc;&#x8fde;&#x63a5;.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F09BEFD91F5663D200383138"
-               BuildableName = "NSUIRLConnect&#x7f51;&#x7edc;&#x8fde;&#x63a5;Tests.xctest"
-               BlueprintName = "NSUIRLConnect&#x7f51;&#x7edc;&#x8fde;&#x63a5;Tests"
-               ReferencedContainer = "container:NSUIRLConnect&#x7f51;&#x7edc;&#x8fde;&#x63a5;.xcodeproj">
+               BuildableName = "NSUIRLConnection&#x7f51;&#x7edc;&#x8fde;&#x63a5;Tests.xctest"
+               BlueprintName = "NSUIRLConnection&#x7f51;&#x7edc;&#x8fde;&#x63a5;Tests"
+               ReferencedContainer = "container:NSUIRLConnection&#x7f51;&#x7edc;&#x8fde;&#x63a5;.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F09BEFE41F5663D200383138"
-               BuildableName = "NSUIRLConnect&#x7f51;&#x7edc;&#x8fde;&#x63a5;UITests.xctest"
-               BlueprintName = "NSUIRLConnect&#x7f51;&#x7edc;&#x8fde;&#x63a5;UITests"
-               ReferencedContainer = "container:NSUIRLConnect&#x7f51;&#x7edc;&#x8fde;&#x63a5;.xcodeproj">
+               BuildableName = "NSUIRLConnection&#x7f51;&#x7edc;&#x8fde;&#x63a5;UITests.xctest"
+               BlueprintName = "NSUIRLConnection&#x7f51;&#x7edc;&#x8fde;&#x63a5;UITests"
+               ReferencedContainer = "container:NSUIRLConnection&#x7f51;&#x7edc;&#x8fde;&#x63a5;.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F09BEFC01F5663D200383138"
-            BuildableName = "NSUIRLConnect&#x7f51;&#x7edc;&#x8fde;&#x63a5;.app"
-            BlueprintName = "NSUIRLConnect&#x7f51;&#x7edc;&#x8fde;&#x63a5;"
-            ReferencedContainer = "container:NSUIRLConnect&#x7f51;&#x7edc;&#x8fde;&#x63a5;.xcodeproj">
+            BuildableName = "NSUIRLConnection&#x7f51;&#x7edc;&#x8fde;&#x63a5;.app"
+            BlueprintName = "NSUIRLConnection&#x7f51;&#x7edc;&#x8fde;&#x63a5;"
+            ReferencedContainer = "container:NSUIRLConnection&#x7f51;&#x7edc;&#x8fde;&#x63a5;.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F09BEFC01F5663D200383138"
-            BuildableName = "NSUIRLConnect&#x7f51;&#x7edc;&#x8fde;&#x63a5;.app"
-            BlueprintName = "NSUIRLConnect&#x7f51;&#x7edc;&#x8fde;&#x63a5;"
-            ReferencedContainer = "container:NSUIRLConnect&#x7f51;&#x7edc;&#x8fde;&#x63a5;.xcodeproj">
+            BuildableName = "NSUIRLConnection&#x7f51;&#x7edc;&#x8fde;&#x63a5;.app"
+            BlueprintName = "NSUIRLConnection&#x7f51;&#x7edc;&#x8fde;&#x63a5;"
+            ReferencedContainer = "container:NSUIRLConnection&#x7f51;&#x7edc;&#x8fde;&#x63a5;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F09BEFC01F5663D200383138"
-            BuildableName = "NSUIRLConnect&#x7f51;&#x7edc;&#x8fde;&#x63a5;.app"
-            BlueprintName = "NSUIRLConnect&#x7f51;&#x7edc;&#x8fde;&#x63a5;"
-            ReferencedContainer = "container:NSUIRLConnect&#x7f51;&#x7edc;&#x8fde;&#x63a5;.xcodeproj">
+            BuildableName = "NSUIRLConnection&#x7f51;&#x7edc;&#x8fde;&#x63a5;.app"
+            BlueprintName = "NSUIRLConnection&#x7f51;&#x7edc;&#x8fde;&#x63a5;"
+            ReferencedContainer = "container:NSUIRLConnection&#x7f51;&#x7edc;&#x8fde;&#x63a5;.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

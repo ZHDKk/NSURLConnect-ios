@@ -35,7 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		F09BEFC11F5663D200383138 /* NSUIRLConnect网络连接.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "NSUIRLConnect网络连接.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F09BEFC11F5663D200383138 /* NSUIRLConnection网络连接.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "NSUIRLConnection网络连接.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F09BEFC51F5663D200383138 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		F09BEFC71F5663D200383138 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		F09BEFC81F5663D200383138 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -45,10 +45,10 @@
 		F09BEFD01F5663D200383138 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F09BEFD31F5663D200383138 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F09BEFD51F5663D200383138 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F09BEFDA1F5663D200383138 /* NSUIRLConnect网络连接Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "NSUIRLConnect网络连接Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F09BEFDA1F5663D200383138 /* NSUIRLConnection网络连接Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "NSUIRLConnection网络连接Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F09BEFDE1F5663D200383138 /* NSUIRLConnect____Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSUIRLConnect____Tests.m"; sourceTree = "<group>"; };
 		F09BEFE01F5663D200383138 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F09BEFE51F5663D200383138 /* NSUIRLConnect网络连接UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "NSUIRLConnect网络连接UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F09BEFE51F5663D200383138 /* NSUIRLConnection网络连接UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "NSUIRLConnection网络连接UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F09BEFE91F5663D200383138 /* NSUIRLConnect____UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSUIRLConnect____UITests.m"; sourceTree = "<group>"; };
 		F09BEFEB1F5663D200383138 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -81,7 +81,7 @@
 		F09BEFB81F5663D200383138 = {
 			isa = PBXGroup;
 			children = (
-				F09BEFC31F5663D200383138 /* NSUIRLConnect网络连接 */,
+				F09BEFC31F5663D200383138 /* NSUIRLConnection网络连接 */,
 				F09BEFDD1F5663D200383138 /* NSUIRLConnect网络连接Tests */,
 				F09BEFE81F5663D200383138 /* NSUIRLConnect网络连接UITests */,
 				F09BEFC21F5663D200383138 /* Products */,
@@ -91,14 +91,14 @@
 		F09BEFC21F5663D200383138 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F09BEFC11F5663D200383138 /* NSUIRLConnect网络连接.app */,
-				F09BEFDA1F5663D200383138 /* NSUIRLConnect网络连接Tests.xctest */,
-				F09BEFE51F5663D200383138 /* NSUIRLConnect网络连接UITests.xctest */,
+				F09BEFC11F5663D200383138 /* NSUIRLConnection网络连接.app */,
+				F09BEFDA1F5663D200383138 /* NSUIRLConnection网络连接Tests.xctest */,
+				F09BEFE51F5663D200383138 /* NSUIRLConnection网络连接UITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F09BEFC31F5663D200383138 /* NSUIRLConnect网络连接 */ = {
+		F09BEFC31F5663D200383138 /* NSUIRLConnection网络连接 */ = {
 			isa = PBXGroup;
 			children = (
 				F09BEFC71F5663D200383138 /* AppDelegate.h */,
@@ -111,6 +111,7 @@
 				F09BEFD51F5663D200383138 /* Info.plist */,
 				F09BEFC41F5663D200383138 /* Supporting Files */,
 			);
+			name = "NSUIRLConnection网络连接";
 			path = "NSUIRLConnect网络连接";
 			sourceTree = "<group>";
 		};
@@ -143,9 +144,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F09BEFC01F5663D200383138 /* NSUIRLConnect网络连接 */ = {
+		F09BEFC01F5663D200383138 /* NSUIRLConnection网络连接 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F09BEFEE1F5663D200383138 /* Build configuration list for PBXNativeTarget "NSUIRLConnect网络连接" */;
+			buildConfigurationList = F09BEFEE1F5663D200383138 /* Build configuration list for PBXNativeTarget "NSUIRLConnection网络连接" */;
 			buildPhases = (
 				F09BEFBD1F5663D200383138 /* Sources */,
 				F09BEFBE1F5663D200383138 /* Frameworks */,
@@ -155,14 +156,14 @@
 			);
 			dependencies = (
 			);
-			name = "NSUIRLConnect网络连接";
+			name = "NSUIRLConnection网络连接";
 			productName = "NSUIRLConnect网络连接";
-			productReference = F09BEFC11F5663D200383138 /* NSUIRLConnect网络连接.app */;
+			productReference = F09BEFC11F5663D200383138 /* NSUIRLConnection网络连接.app */;
 			productType = "com.apple.product-type.application";
 		};
-		F09BEFD91F5663D200383138 /* NSUIRLConnect网络连接Tests */ = {
+		F09BEFD91F5663D200383138 /* NSUIRLConnection网络连接Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F09BEFF11F5663D200383138 /* Build configuration list for PBXNativeTarget "NSUIRLConnect网络连接Tests" */;
+			buildConfigurationList = F09BEFF11F5663D200383138 /* Build configuration list for PBXNativeTarget "NSUIRLConnection网络连接Tests" */;
 			buildPhases = (
 				F09BEFD61F5663D200383138 /* Sources */,
 				F09BEFD71F5663D200383138 /* Frameworks */,
@@ -173,14 +174,14 @@
 			dependencies = (
 				F09BEFDC1F5663D200383138 /* PBXTargetDependency */,
 			);
-			name = "NSUIRLConnect网络连接Tests";
+			name = "NSUIRLConnection网络连接Tests";
 			productName = "NSUIRLConnect网络连接Tests";
-			productReference = F09BEFDA1F5663D200383138 /* NSUIRLConnect网络连接Tests.xctest */;
+			productReference = F09BEFDA1F5663D200383138 /* NSUIRLConnection网络连接Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		F09BEFE41F5663D200383138 /* NSUIRLConnect网络连接UITests */ = {
+		F09BEFE41F5663D200383138 /* NSUIRLConnection网络连接UITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F09BEFF41F5663D200383138 /* Build configuration list for PBXNativeTarget "NSUIRLConnect网络连接UITests" */;
+			buildConfigurationList = F09BEFF41F5663D200383138 /* Build configuration list for PBXNativeTarget "NSUIRLConnection网络连接UITests" */;
 			buildPhases = (
 				F09BEFE11F5663D200383138 /* Sources */,
 				F09BEFE21F5663D200383138 /* Frameworks */,
@@ -191,9 +192,9 @@
 			dependencies = (
 				F09BEFE71F5663D200383138 /* PBXTargetDependency */,
 			);
-			name = "NSUIRLConnect网络连接UITests";
+			name = "NSUIRLConnection网络连接UITests";
 			productName = "NSUIRLConnect网络连接UITests";
-			productReference = F09BEFE51F5663D200383138 /* NSUIRLConnect网络连接UITests.xctest */;
+			productReference = F09BEFE51F5663D200383138 /* NSUIRLConnection网络连接UITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -221,7 +222,7 @@
 					};
 				};
 			};
-			buildConfigurationList = F09BEFBC1F5663D200383138 /* Build configuration list for PBXProject "NSUIRLConnect网络连接" */;
+			buildConfigurationList = F09BEFBC1F5663D200383138 /* Build configuration list for PBXProject "NSUIRLConnection网络连接" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -234,9 +235,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F09BEFC01F5663D200383138 /* NSUIRLConnect网络连接 */,
-				F09BEFD91F5663D200383138 /* NSUIRLConnect网络连接Tests */,
-				F09BEFE41F5663D200383138 /* NSUIRLConnect网络连接UITests */,
+				F09BEFC01F5663D200383138 /* NSUIRLConnection网络连接 */,
+				F09BEFD91F5663D200383138 /* NSUIRLConnection网络连接Tests */,
+				F09BEFE41F5663D200383138 /* NSUIRLConnection网络连接UITests */,
 			);
 		};
 /* End PBXProject section */
@@ -300,12 +301,12 @@
 /* Begin PBXTargetDependency section */
 		F09BEFDC1F5663D200383138 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = F09BEFC01F5663D200383138 /* NSUIRLConnect网络连接 */;
+			target = F09BEFC01F5663D200383138 /* NSUIRLConnection网络连接 */;
 			targetProxy = F09BEFDB1F5663D200383138 /* PBXContainerItemProxy */;
 		};
 		F09BEFE71F5663D200383138 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = F09BEFC01F5663D200383138 /* NSUIRLConnect网络连接 */;
+			target = F09BEFC01F5663D200383138 /* NSUIRLConnection网络连接 */;
 			targetProxy = F09BEFE61F5663D200383138 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -450,7 +451,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "zhdk.NSUIRLConnect----Tests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NSUIRLConnect网络连接.app/NSUIRLConnect网络连接";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NSUIRLConnection网络连接.app/NSUIRLConnection网络连接";
 			};
 			name = Debug;
 		};
@@ -462,7 +463,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "zhdk.NSUIRLConnect----Tests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NSUIRLConnect网络连接.app/NSUIRLConnect网络连接";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NSUIRLConnection网络连接.app/NSUIRLConnection网络连接";
 			};
 			name = Release;
 		};
@@ -491,7 +492,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F09BEFBC1F5663D200383138 /* Build configuration list for PBXProject "NSUIRLConnect网络连接" */ = {
+		F09BEFBC1F5663D200383138 /* Build configuration list for PBXProject "NSUIRLConnection网络连接" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F09BEFEC1F5663D200383138 /* Debug */,
@@ -500,7 +501,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F09BEFEE1F5663D200383138 /* Build configuration list for PBXNativeTarget "NSUIRLConnect网络连接" */ = {
+		F09BEFEE1F5663D200383138 /* Build configuration list for PBXNativeTarget "NSUIRLConnection网络连接" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F09BEFEF1F5663D200383138 /* Debug */,
@@ -508,7 +509,7 @@
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		F09BEFF11F5663D200383138 /* Build configuration list for PBXNativeTarget "NSUIRLConnect网络连接Tests" */ = {
+		F09BEFF11F5663D200383138 /* Build configuration list for PBXNativeTarget "NSUIRLConnection网络连接Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F09BEFF21F5663D200383138 /* Debug */,
@@ -516,7 +517,7 @@
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		F09BEFF41F5663D200383138 /* Build configuration list for PBXNativeTarget "NSUIRLConnect网络连接UITests" */ = {
+		F09BEFF41F5663D200383138 /* Build configuration list for PBXNativeTarget "NSUIRLConnection网络连接UITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F09BEFF51F5663D200383138 /* Debug */,

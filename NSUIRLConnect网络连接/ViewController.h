@@ -8,7 +8,14 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController<NSURLConnectionDelegate,NSURLConnectionDelegate>
+
+{
+    //定义url连接对象,通过网络地址可以进行连接工作
+    NSURLConnection *_connect ;
+    //创建一个可变二进制数据对象，接收服务器传回的数据
+    NSMutableData *_data;
+}
 
 
 @end
